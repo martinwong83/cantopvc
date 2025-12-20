@@ -1,8 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://www.cantopvc.com/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
+		<loc>https://www.cantopvc.com/tapacanto-de-melamina/</loc>
+		<lastmod>2025-12-20T10:59:16+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.cantopvc.com/wp-content/uploads/2025/12/cropped-cantopvc-high-resolution-logo-transparent.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.cantopvc.com/wp-content/uploads/2025/12/cropped-cantopvc-high-resolution-logo-transparent.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.cantopvc.com/wp-content/uploads/2025/12/H2f9647e62b714fd7a5cc6cce2afad522A-1.avif</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.cantopvc.com/wp-content/uploads/2025/12/H177a3b8df04548f09aa245c32a883bf8w.avif</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.cantopvc.com/wp-content/uploads/2025/12/H938f99bdf513487884e60fa6f016a232g-1.avif</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.cantopvc.com/wp-content/uploads/2025/12/H56f71e7be8f8410189abfdbcc72f8a040-1-1.avif</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.cantopvc.com/wp-content/uploads/2025/12/pvc-edge-banding.avif</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.cantopvc.com/wp-content/uploads/2025/12/abs-banding.avif</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.cantopvc.com/wp-content/uploads/2025/12/3d-acrylic-banding.png</image:loc>
+		</image:image>
+	</url>
+	<url>
 		<loc>https://www.cantopvc.com/tapacanto-de-3d/</loc>
-		<lastmod>2025-12-13T11:53:52+00:00</lastmod>
+		<lastmod>2025-12-20T10:56:13+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.cantopvc.com/wp-content/uploads/2025/12/cropped-cantopvc-high-resolution-logo-transparent.png</image:loc>
 		</image:image>
@@ -44,8 +75,8 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.cantopvc.com/tapacantos-abs-flexible-resistente/</loc>
-		<lastmod>2025-12-13T11:50:26+00:00</lastmod>
+		<loc>https://www.cantopvc.com/tapacantos-de-abs/</loc>
+		<lastmod>2025-12-20T10:54:14+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.cantopvc.com/wp-content/uploads/2025/12/cropped-cantopvc-high-resolution-logo-transparent.png</image:loc>
 		</image:image>
@@ -72,8 +103,8 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.cantopvc.com/tapacantos-de-pvc/</loc>
-		<lastmod>2025-12-13T11:47:52+00:00</lastmod>
+		<loc>https://www.cantopvc.com/tapacanto-de-pvc/</loc>
+		<lastmod>2025-12-20T10:51:33+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.cantopvc.com/wp-content/uploads/2025/12/cropped-cantopvc-high-resolution-logo-transparent.png</image:loc>
 		</image:image>
@@ -112,37 +143,6 @@
 		</image:image>
 		<image:image>
 			<image:loc>https://www.cantopvc.com/wp-content/uploads/2025/12/abs-banding.avif</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://www.cantopvc.com/tapacanto-de-melamina/</loc>
-		<lastmod>2025-12-13T11:42:20+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.cantopvc.com/wp-content/uploads/2025/12/cropped-cantopvc-high-resolution-logo-transparent.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://www.cantopvc.com/wp-content/uploads/2025/12/cropped-cantopvc-high-resolution-logo-transparent.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://www.cantopvc.com/wp-content/uploads/2025/12/H2f9647e62b714fd7a5cc6cce2afad522A-1.avif</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://www.cantopvc.com/wp-content/uploads/2025/12/H177a3b8df04548f09aa245c32a883bf8w.avif</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://www.cantopvc.com/wp-content/uploads/2025/12/H938f99bdf513487884e60fa6f016a232g-1.avif</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://www.cantopvc.com/wp-content/uploads/2025/12/H56f71e7be8f8410189abfdbcc72f8a040-1-1.avif</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://www.cantopvc.com/wp-content/uploads/2025/12/pvc-edge-banding.avif</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://www.cantopvc.com/wp-content/uploads/2025/12/abs-banding.avif</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://www.cantopvc.com/wp-content/uploads/2025/12/3d-acrylic-banding.png</image:loc>
 		</image:image>
 	</url>
 </urlset>
